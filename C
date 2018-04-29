@@ -1,0 +1,4 @@
+include <iostream>
+  public int main() {
+  print<<out<<"gun!"
+  }
